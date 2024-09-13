@@ -1,0 +1,182 @@
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/asteroid.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/ship.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/space.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/spaceFont.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/timerFont.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.deps.json
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.runtimeconfig.json
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.pdb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/MonoGame.Framework.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.csproj.AssemblyReference.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.AssemblyInfoInputs.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.AssemblyInfo.cs
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.csproj.CoreCompileInputs.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.csproj.CopyComplete
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/refint/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.pdb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.genruntimeconfig.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship/Spaceship/Spaceship/obj/Debug/net6.0/ref/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/asteroid.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/ship.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/space.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/spaceFont.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/timerFont.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.deps.json
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.runtimeconfig.json
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.pdb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/MonoGame.Framework.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.csproj.AssemblyReference.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.AssemblyInfoInputs.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.AssemblyInfo.cs
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.csproj.CoreCompileInputs.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.csproj.CopyComplete
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/refint/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.pdb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.genruntimeconfig.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/ref/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/asteroid.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/ship.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/space.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/spaceFont.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Content/Assets/timerFont.xnb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.deps.json
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.runtimeconfig.json
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/Spaceship.pdb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/MonoGame.Framework.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/linux-x64/native/libopenal.so.1
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/osx/native/libSDL2.dylib
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/osx/native/libopenal.1.dylib
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x64/native/SDL2.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x64/native/soft_oal.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x86/native/SDL2.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/bin/Debug/net6.0/runtimes/win-x86/native/soft_oal.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.csproj.AssemblyReference.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.AssemblyInfoInputs.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.AssemblyInfo.cs
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.csproj.CoreCompileInputs.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.csproj.CopyComplete
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/refint/Spaceship.dll
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.pdb
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/Spaceship.genruntimeconfig.cache
+/Users/iamllcoolray/Library/CloudStorage/Dropbox/source/game-dev/udemy-course/spaceship-monogame/Spaceship/Spaceship/obj/Debug/net6.0/ref/Spaceship.dll
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\asteroid.xnb
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\ship.xnb
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\space.xnb
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\spaceFont.xnb
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\timerFont.xnb
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.exe
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.deps.json
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.runtimeconfig.json
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.dll
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.pdb
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.csproj.AssemblyReference.cache
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.AssemblyInfoInputs.cache
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.AssemblyInfo.cs
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.csproj.CopyComplete
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.dll
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\refint\Spaceship.dll
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.pdb
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.genruntimeconfig.cache
+C:\Users\falseAge\Desktop\spaceship-main\Spaceship\Spaceship\obj\Debug\net6.0\ref\Spaceship.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\asteroid.xnb
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\ship.xnb
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\space.xnb
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\spaceFont.xnb
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\timerFont.xnb
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.exe
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.deps.json
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.runtimeconfig.json
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Spaceship.pdb
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.csproj.AssemblyReference.cache
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.AssemblyInfoInputs.cache
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.AssemblyInfo.cs
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.csproj.CopyComplete
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\refint\Spaceship.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.pdb
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.genruntimeconfig.cache
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\ref\Spaceship.dll
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Content\Assets\asteroid.xnb
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Content\Assets\ship.xnb
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Content\Assets\space.xnb
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Content\Assets\spaceFont.xnb
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Content\Assets\timerFont.xnb
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Spaceship.exe
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Spaceship.deps.json
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Spaceship.runtimeconfig.json
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Spaceship.dll
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Spaceship.pdb
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\Spaceship.csproj.AssemblyReference.cache
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\Spaceship.AssemblyInfoInputs.cache
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\Spaceship.AssemblyInfo.cs
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\Spaceship.csproj.CoreCompileInputs.cache
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\Spaceship.csproj.CopyComplete
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\Spaceship.dll
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\refint\Spaceship.dll
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\Spaceship.pdb
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\Spaceship.genruntimeconfig.cache
+C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\obj\Debug\net6.0\ref\Spaceship.dll
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\obj\Debug\net6.0\Spaceship.sourcelink.json
+C:\Users\falseAge\Desktop\Spaceship\Spaceship\bin\Debug\net6.0\Content\Assets\bullet.xnb

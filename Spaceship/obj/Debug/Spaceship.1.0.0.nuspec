@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Spaceship</id>
+    <version>1.0.0</version>
+    <authors>Spaceship</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="MonoGame.Content.Builder.Task" version="3.8.1.303" exclude="Build,Analyzers" />
+        <dependency id="MonoGame.Framework.DesktopGL" version="3.8.1.303" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Assets/asteroid.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Assets/ship.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Assets/space.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Assets/spaceFont.xnb" buildAction="Content" />
+      <files include="any/net6.0/Content/bin/DesktopGL/Content/Assets/timerFont.xnb" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Spaceship.runtimeconfig.json" target="lib\net6.0\Spaceship.runtimeconfig.json" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\bin\Debug\net6.0\Spaceship.dll" target="lib\net6.0\Spaceship.dll" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\asteroid.xnb" target="content\Content\bin\DesktopGL\Content\Assets\asteroid.xnb" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\asteroid.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Assets\asteroid.xnb" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\ship.xnb" target="content\Content\bin\DesktopGL\Content\Assets\ship.xnb" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\ship.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Assets\ship.xnb" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\space.xnb" target="content\Content\bin\DesktopGL\Content\Assets\space.xnb" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\space.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Assets\space.xnb" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\spaceFont.xnb" target="content\Content\bin\DesktopGL\Content\Assets\spaceFont.xnb" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\spaceFont.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Assets\spaceFont.xnb" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\timerFont.xnb" target="content\Content\bin\DesktopGL\Content\Assets\timerFont.xnb" />
+    <file src="C:\Users\falseAge\Desktop\Spaceship — копия\Spaceship\Content\bin\DesktopGL\Content\Assets\timerFont.xnb" target="contentFiles\any\net6.0\Content\bin\DesktopGL\Content\Assets\timerFont.xnb" />
+  </files>
+</package>
